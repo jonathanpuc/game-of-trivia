@@ -1,5 +1,8 @@
 # Game Of Trivia
 
+# Currently only functioning properly with Google Chrome.
+
+
 Test your knowledge of the hit tv series, Game of Thrones!
 A trivia application built with the amazing Vue.js framework.
 
